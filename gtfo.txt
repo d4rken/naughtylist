@@ -1,7 +1,7 @@
 ||rewfeed.com^$third-party
 rewfeed.com
 
-!https://www.reddit.com/r/programming/comments/6t1x9u/ad_blockers_under_attack_drm_through_the_dmca/
+!https://github.com/easylist/easylist/commit/a4d380ad1a3b33a0fab679a1a8c5a791321622b3
 abandonedclover.com
 abruptroad.com
 actuallysheep.com
